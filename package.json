@@ -1,0 +1,17 @@
+{
+  "name": "rijal-md",
+  "version": "1.0.0",
+  "description": "WhatsApp Game Bot - Tebak Bendera, Kuis, Cek-cekan & more!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "axios": "^1.7.2",
+    "pino": "^8.21.0"
+  },
+  "keywords": ["whatsapp", "bot", "game"],
+  "author": "rijall💫",
+  "license": "MIT"
+}
